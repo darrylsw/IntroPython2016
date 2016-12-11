@@ -1,0 +1,21 @@
+Cluster,Datastore,Capacity,Allocated,Free,VM ct,Type
+cluster1,datastore1,1000,800,500,20,VMFS
+cluster1,datastore2,1000,900,400,11,VMFS
+cluster1,datastore3,1000,1100,300,12,VMFS
+cluster1,datastore4,1000,400,200,15,VMFS
+cluster1,datastore5,4000,900,600,9,VMFS
+cluster2,datastore1,1000,1500,900,20,VMFS
+cluster2,datastore2,1000,100,900,11,VMFS
+cluster2,datastore3,1000,900,700,12,VMFS
+cluster2,datastore4,1000,700,600,15,VMFS
+cluster2,datastore5,1000,700,500,9,VMFS
+cluster1,datastore11,500,700,400,2,NFS
+cluster1,datastore12,500,600,400,1,NFS
+cluster1,datastore13,500,200,400,1,NFS
+cluster1,datastore14,500,200,400,5,NFS
+cluster1,datastore15,500,600,400,3,NFS
+cluster2,datastore11,500,700,300,2,NFS
+cluster2,datastore12,500,800,300,5,NFS
+cluster2,datastore13,500,900,300,7,NFS
+cluster2,datastore14,500,300,300,3,NFS
+cluster2,datastore15,500,500,300,9,NFS
